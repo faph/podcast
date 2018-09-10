@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>White noise</title>
+    <description>White noise</description>
+    <link>http://www.whitenoise.com</link>
+    <language>en-us</language>
+    <copyright>Copyright 2007</copyright>
+    <lastBuildDate>Sat, 25 Mar 2006 11:30:00 -0500</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
+    <docs>http://www.whitenoise.com</docs>
+    <webMaster>root@whitenoise.com</webMaster>
+    <item>
+      <title>White Nois</title>
+      <link>http://www.whitenoise.com</link>
+      <guid>http://www.whitenoise.com/file.mp3</guid>
+      <description>White noise</description>
+      <enclosure length="11779397" type="audio/mpeg" url="http://www.whitenoise.com/file.mp3"/>
+      <category>Podcasts</category>
+      <pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
+    </item>
+  </channel>
+</rss>
